@@ -1,0 +1,15 @@
+{
+  "name": "config-files",
+  "version": "1.0.0",
+  "description": "-- boilerplate --",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Levit",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
